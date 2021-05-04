@@ -17,10 +17,8 @@
 - 📫 个人博客  
 
   - ✅   https://www.cycn.site
-    
-  - ✅   <a target="_blank" rel="nofollow" href="https://coding-pages-bucket-3501842-8141905-8363-424877-1304568931.cos-website.ap-hongkong.myqcloud.com" >coding</a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nate-lin&show_icons=true&theme=shades-of-purple)](https://github.com/nate-lin/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nate-lin&show_icons=true&theme=shades-of-purple)](https://github.com/ChenYang-pro/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nate-lin&layout=compact)](https://github.com/nate-lin/github-readme-stats)
 
