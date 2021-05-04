@@ -12,11 +12,11 @@
 
 - 邮箱： yangchen.cn@outlook.com
 
-- 👯 GitHub： https://github.com/ChenYang-pro
+- GitHub： https://github.com/ChenYang-pro
 
-- 📫 个人博客  
+- 个人博客  
 
-  - ✅   https://www.cycn.site
+  - https://www.cycn.site
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChenYang-pro&show_icons=true&theme=shades-of-purple)](https://github.com/ChenYang-pro/github-readme-stats)
 
