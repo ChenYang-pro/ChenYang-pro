@@ -22,9 +22,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nate-lin&layout=compact)](https://github.com/nate-lin/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nate-lin&repo=yilia-plus&show_icons=true&theme=shades-of-purple)](https://github.com/nate-lin/yilia-plus)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenYang-pro&repo=thingsboard&show_icons=true&theme=shades-of-purple)](https://github.com/ChenYang-pro/thingsboard)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nate-lin&repo=hexo-theme-3-hexo&show_icons=true&theme=shades-of-purple)](https://github.com/nate-lin/hexo-theme-3-hexo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenYang-pro&repo=hexo-theme-matery&show_icons=true&theme=shades-of-purple)]https://github.com/ChenYang-pro/hexo-theme-matery)
 
 ![游戏](https://blog-lin1.oss-cn-shenzhen.aliyuncs.com/img/游戏.gif)
 
