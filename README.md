@@ -22,8 +22,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenYang-pro&layout=compact)](https://github.com/ChenYang-pro/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenYang-pro&repo=hexo-theme-matery&show_icons=true&theme=shades-of-purple)](https://github.com/ChenYang-pro/Kwai)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenYang-pro&repo=hexo-theme-matery&show_icons=true&theme=shades-of-purple)](https://github.com/ChenYang-pro/happyNewYear)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenYang-pro&repo=Kwai&show_icons=true&theme=shades-of-purple)](https://github.com/ChenYang-pro/Kwai)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenYang-pro&repo=happyNewYear&show_icons=true&theme=shades-of-purple)](https://github.com/ChenYang-pro/happyNewYear)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenYang-pro&repo=hexo-theme-matery&show_icons=true&theme=shades-of-purple)](https://github.com/ChenYang-pro/hexo-theme-matery)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenYang-pro&repo=thingsboard&show_icons=true&theme=shades-of-purple)](https://github.com/ChenYang-pro/thingsboard)
 
