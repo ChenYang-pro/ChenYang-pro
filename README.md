@@ -4,20 +4,6 @@
 ## About Me
 
 
-你好，欢迎来到我的主页。我是一名目前在快手工作的前端工程师。
-
-- QQ： 445858927
-
-- 微信： 13588761561
-
-- 邮箱： yangchen.cn@outlook.com
-
-- GitHub： https://github.com/ChenYang-pro
-
-- 个人博客  
-
-  - http://www.cycn.site
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chenyang-pro&show_icons=true&theme=shades-of-purple)](https://github.com/chenyang-pro/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenYang-pro&layout=compact)](https://github.com/ChenYang-pro/github-readme-stats)
